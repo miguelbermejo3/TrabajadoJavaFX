@@ -1,0 +1,43 @@
+# Archivos de compilación y directorios
+target/
+out/
+bin/
+build/
+
+# Archivos de configuración del IDE (dependiendo del IDE que utilices)
+
+
+# Eclipse
+/.metadata
+/.classpath
+/.project
+/.settings/
+
+# Archivos de compilación de Maven o Gradle
+/.mvn
+/.gradle
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+build/
+
+# Archivos temporales de Java
+*.class
+*.log
+
+# Archivos de caché
+*.jar
+*.war
+*.ear
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del sistema
+*.swp
+*~
+
+# Archivos generados por otros programas o editor de texto
+*.sublime-workspace
+*.sublime-project
